@@ -1,4 +1,5 @@
 {
   "bump-minor-pre-major": true,
-  "release-type": "rust"
+  "release-type": "rust",
+  "include-v-in-tag": true
 }
