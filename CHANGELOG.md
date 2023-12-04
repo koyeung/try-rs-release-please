@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/koyeung/try-rs-release-please/compare/try-rs-release-please-v0.3.0...try-rs-release-please-v0.3.1) (2023-12-04)
+
+
+### Bug Fixes
+
+* no monorepo-tags ([33c7731](https://github.com/koyeung/try-rs-release-please/commit/33c7731501088c7d88747a0df26b6be1b5ac8faf))
+
 ## [0.3.0](https://github.com/koyeung/try-rs-release-please/compare/try-rs-release-please-v0.2.0...try-rs-release-please-v0.3.0) (2023-12-04)
 
 
